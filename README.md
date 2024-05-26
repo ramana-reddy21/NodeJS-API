@@ -30,7 +30,7 @@ node app.js
 
 Step 4: Test Your API
 
-Open your web browser or use tools like Postman to test your API. Navigate to `http://localhost:3000/` to see the response from your server.
+Open your web browser or use tools like Postman to test your API. Navigate to `http://localhost:8080/` to see the response from your server.
 
 Step 5: Extend Your API
 
